@@ -2,6 +2,8 @@
 
 This repository contains the code for a single-page website showcasing a modern and professional hero section design. The design utilizes a black and white color scheme to create a clean and impactful aesthetic.
 
+![Screenshot](docs/Image/ShopJacketSS.jpeg)
+
 ## Design Overview
 
 This project focuses on implementing a visually appealing and engaging hero section using a minimalist design approach. Key elements include:
